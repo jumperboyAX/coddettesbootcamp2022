@@ -122,7 +122,7 @@ And I can press enter to send messages .
 
 This is a piece index.html code
 
-|
+```
 
  <link  rel="stylesheet"  type="text/css"  href="style.css"  />
 
@@ -152,9 +152,8 @@ This is a piece index.html code
 
 </html>
 
- |
  
- '''
+ ```
 
 So here were linking the style.js and the script.js
 
