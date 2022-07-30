@@ -122,7 +122,7 @@ And I can press enter to send messages .
 
 This is a piece index.html code
 
-```
+    ```
 
  <link  rel="stylesheet"  type="text/css"  href="style.css"  />
 
@@ -152,7 +152,6 @@ This is a piece index.html code
 
 </html>
 
- 
  ```
 
 So here were linking the style.js and the script.js
@@ -165,7 +164,7 @@ And a input were you can press enter to send you're messages
 
 This is a piece of style.css code
 
-```
+  ```
 
 .chatbox{
 
@@ -220,6 +219,7 @@ height:500px;
     flex-direction: column-reverse;
 
   }
+
 
 ```
 
