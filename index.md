@@ -69,7 +69,7 @@ This is the first iteration of my chat app it is pretty basic the problem with m
 This is the index.html
 
 
-'''
+```
 
 <!DOCTYPE html>
 
@@ -104,7 +104,7 @@ This is the index.html
         <div  id="userlist"></div>
 
         <h1><i>hello welcome to my website</i></h1>\
-     <'/code'>
+     ```
 
 So what is happening here is the were linking the style.css and the script.js in the html code so our code can be nice and neat and were making were making a div to search a class named chatbox with the id chatlog 
 
