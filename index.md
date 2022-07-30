@@ -278,3 +278,16 @@ This is the cmd for running the chat server
 ![](https://lh5.googleusercontent.com/sWP29TsK-VZApAHr7DWl0I8VcS5Nor89FsdJNlFGKjbi8ob-kolgxWIBQeA-XKVUaEgIia50w7CbOTSPrkBeqym4HZ_C6D9sbC2exw33-znyRS_5cv58TMS1SAC8Rh9_Tdl_MOLuXR7nqItawth74ZY)
 
 This is the chat server it is basically the same a  chat app
+
+
+
+10.3 installing cura 
+So in this sesion we installed cura so that we can learn to 3d print on our own 
+
+ So this is cura it is used for 3D printing   
+
+This is the download link 
+
+https://www.filecroco.com/download-cura/
+
+
