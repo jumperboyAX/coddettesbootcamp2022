@@ -164,7 +164,9 @@ And a input were you can press enter to send you're messages
 
 This is a piece of style.css code
 
-  ```
+ 
+```
+
 
 .chatbox{
 
@@ -221,7 +223,7 @@ height:500px;
   }
 
 
-```
+  ```
 
 So here we are styling the page like the message box and also the scroll feature
 
