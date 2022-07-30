@@ -165,7 +165,7 @@ And a input were you can press enter to send you're messages
 
 This is a piece of style.css code
 
-|
+```
 
 .chatbox{
 
@@ -221,13 +221,13 @@ height:500px;
 
   }
 
- |
+```
 
 So here we are styling the page like the message box and also the scroll feature
 
 This are piece of the script.js code 
 
-|
+```
 
   function sendPing(usr = '') {
 
@@ -259,7 +259,7 @@ This are piece of the script.js code 
 
         //var x = arrayItem.prop1 + 2;
 
- |
+ ```
 
 So what is basically  happening hier is when we log on to the website it send a pong  and if another person logs on they send a ping and it will show in the userlist function and function redrawUserlist means that if i don't receive a ping from someone they will not appear in the uselist
 
