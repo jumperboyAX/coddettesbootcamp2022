@@ -69,7 +69,7 @@ This is the first iteration of my chat app it is pretty basic the problem with m
 This is the index.html
 
 
-'
+'''
 
 <!DOCTYPE html>
 
@@ -151,7 +151,9 @@ This is a piece index.html code
 
 </html>
 
- | '
+ |
+ 
+ '''
 
 So here were linking the style.js and the script.js
 
