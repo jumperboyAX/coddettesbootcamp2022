@@ -286,7 +286,7 @@ This is the chat server it is basically the same a  chat app
 
 ### 10.3 installing cura 
 
-So in this session, we installed cura so that we can learn to 3d print on our own 
+So in this sesion we installed cura so that we can learn to 3d print on our own 
 
 ![](https://lh4.googleusercontent.com/wVJnvqL30hnauS0Asn4EfdeQFXYeo0wlpDGcOypVgBcCZ2fOY6CAIsYujo_Kb281G_zDSWzYAuPb3DVCRJqGXEpNU_efghNqdQZ3qaXT0OEGnJ8LHu_VPPD9EydCgrdV4awimEX31jJpyrhJbp5eBA)
 
@@ -295,3 +295,29 @@ So in this session, we installed cura so that we can learn to 3d print on our ow
 This is the download link
 
 <https://www.filecroco.com/download-cura/>
+
+How to get G code to 3D print 
+
+![](https://lh6.googleusercontent.com/FAXTKJRVSo5TmFE5yjOl_9HffX0Sikn9PFlvp-HzEPjG_kRBP-ldRG6jO7JZuL53h8Ttyen0OVvUFO2dNIMZg5--Yy_NVNX_9l1IPCm73b09jmYRSPvAbGODPDs6afGf-vLexdBzWvpOZuSU1NXRtUg)
+
+ So on thinker cad get the thing you want to 3D print 
+
+And then you press export
+
+![](https://lh4.googleusercontent.com/Hg72hcLxaMCg0p0r1lxYCLZ6Z7PwvbnyhuTHTtJEVTzO4PDLFDOQ3bnzuERa1zGMVQnYVGBzZuD53OFZiyXPqfxS0yK-VoVWvcfTw1Z_QcnIH7ehNXrkp_PR00WGGibksqQelbR7ZBvnSq6IUtEPOoQ)
+
+And then you press stl that will make you print into a stl file
+
+Then go on cura 
+
+![](https://lh6.googleusercontent.com/8jA7GI3ns5APsdATb6exGfvZw8NlQhsy1xD3neT4glqWZvDsnifcHWDXD414fEyEXAlTWzaCLCnN0nyzH1x2ZRW76RtbbSpU6SanYXCLt1I-boH2hMU5MMnTJH5BlYMV198UWuzXDWGnMy1Bj3d57KY)
+
+And press the file icon in the left corner
+
+![](https://lh5.googleusercontent.com/CmTKvUv5Gt7Rq34-asH8AvPdkPBVig5K33EFDtyWHaGskAsj6gAXk6tDz0JSZ4rqrmJCnDpZQ_3I6Z9Jq3-tIcoDVIgrctigerkuMhFtmT-RlMCyxRRLPpeSHkNUjqNn7pTpc3M_j_mV2mQwKfjVN4o)
+
+And then find you file you want to 3D print and open it
+
+![](https://lh6.googleusercontent.com/5-n6NYHdtAc5mdMlJlUyUXcDGGDmD0y0RK6olFJdoernqUq9VC3Eq4C710ct0DjFgfQ-QsojGfyx9y-QAtOEMyZogkCv2BErwlLk1gV_kDMf8qBiD8ibkQV_Ww1MM2j9jB0wr4iDV3drOJUr3N1uuuk)
+
+Something like this shoul show op and the press save to disk and that will make your thing in to G code wich you can insert into a 3D printer
