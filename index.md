@@ -281,13 +281,17 @@ This is the chat server it is basically the same a  chat app
 
 
 
-10.3 installing cura 
-So in this sesion we installed cura so that we can learn to 3d print on our own 
-
- So this is cura it is used for 3D printing   
-
-This is the download link 
-
-https://www.filecroco.com/download-cura/
 
 
+
+### 10.3 installing cura 
+
+So in this session, we installed cura so that we can learn to 3d print on our own 
+
+![](https://lh4.googleusercontent.com/wVJnvqL30hnauS0Asn4EfdeQFXYeo0wlpDGcOypVgBcCZ2fOY6CAIsYujo_Kb281G_zDSWzYAuPb3DVCRJqGXEpNU_efghNqdQZ3qaXT0OEGnJ8LHu_VPPD9EydCgrdV4awimEX31jJpyrhJbp5eBA)
+
+ So this is cura it is used for 3D printing
+
+This is the download link
+
+<https://www.filecroco.com/download-cura/>
