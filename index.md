@@ -122,7 +122,8 @@ And I can press enter to send messages .
 
 This is a piece index.html code
 
-    ```
+     
+ ```
 
  <link  rel="stylesheet"  type="text/css"  href="style.css"  />
 
@@ -165,7 +166,7 @@ And a input were you can press enter to send you're messages
 This is a piece of style.css code
 
  
-```
+
 
 
 .chatbox{
