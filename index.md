@@ -370,3 +370,24 @@ Key partners
 So this is just your list of partners but we learned that it's better to have more than 1 business partner because if one of them does not want to work with you anymore then you will still have other partners to do business with.
 
 
+
+
+Key resources
+
+So this is for all the resources you need for your product and
+
+Cost structure
+
+So this is for all of the costs that you need to pay like business partners 
+
+Advertisements, resources stuff like that
+
+Revenue streams
+
+So this is your sales and your profit so after all the cost have been subtracted
+
+This is an example of a business model canvas 
+
+![](https://lh6.googleusercontent.com/O0-ZaDIYH5ZVHVD7WAnKuwvWmHehVFIofr5yne3c3YAAOI7sjdERLti8JByTcehrjGrARk8YhmzZ3cMcvAhMAtxIk_LkW8sTmFBSghMoMZ-rUyKnJEB0N1zluQR_JPv3LWaFx8uDMp4rVz5WcS046bY)
+
+
