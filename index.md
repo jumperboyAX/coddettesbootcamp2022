@@ -321,3 +321,52 @@ And then find you file you want to 3D print and open it
 ![](https://lh6.googleusercontent.com/5-n6NYHdtAc5mdMlJlUyUXcDGGDmD0y0RK6olFJdoernqUq9VC3Eq4C710ct0DjFgfQ-QsojGfyx9y-QAtOEMyZogkCv2BErwlLk1gV_kDMf8qBiD8ibkQV_Ww1MM2j9jB0wr4iDV3drOJUr3N1uuuk)
 
 Something like this shoul show op and the press save to disk and that will make your thing in to G code wich you can insert into a 3D printer
+
+
+### 10.4 learning about business model canvasses 
+
+So what is a business model canvas
+
+ The Business Model Canvas is a [strategic management](https://en.wikipedia.org/wiki/Strategic_management) template used for developing new [business models](https://en.wikipedia.org/wiki/Business_model) and documenting existing ones.[[2]](https://en.wikipedia.org/wiki/Business_Model_Canvas#cite_note-2)[[3]](https://en.wikipedia.org/wiki/Business_Model_Canvas#cite_note-3) It offers a visual chart with elements describing a firm's or product's [value proposition](https://en.wikipedia.org/wiki/Value_proposition), infrastructure, customers, and finances,[[1]](https://en.wikipedia.org/wiki/Business_Model_Canvas#cite_note-Osterwalder2010-1) assisting businesses to align their activities by illustrating potential trade-offs.
+
+Canvas was initially proposed in 2005 by [Alexander Osterwalder](https://en.wikipedia.org/wiki/Alexander_Osterwalder)
+
+Customer relationship
+
+The first thing we learned is how to have a good customer relationship.
+
+ So to have a good customer relationship you cannot rely on price.
+
+Because if they find someone cheaper they will buy their product instead.
+
+So what you need to do is something your competitors are not doing
+
+Or if it has something to do with tech you have to make an echo system 
+
+Let's take appel for an example, so we all know that apple is one of the biggest maybe the biggest but it's not just their good products it's their echo system. Every product works so well together, and they made it so that it works really bad with any other phone like a Samsung or something else. So that is why most people will not switch to a Samsung because it will make their life harder or they will need to replace almost every apple product they have.
+
+Value proposition
+
+And we also learned about value proposition 
+
+So what is value proposition is basically what do you do that is different then other people 
+
+Like what is special about you that people are gonna buy from you and continue to buy from you
+
+Customer segments 
+
+ We also learned about customer segments 
+
+And what that means is what is the group of customers you are targeting or more like for who is your product made and how big that market is
+
+Channels
+
+Another thing we learned about channels
+
+And that is how are you going to advertise your product or service
+
+Key partners
+
+So this is just your list of partners but we learned that it's better to have more than 1 business partner because if one of them does not want to work with you anymore then you will still have other partners to do business with.
+
+
