@@ -390,4 +390,145 @@ This is an example of a business model canvas 
 
 ![](https://lh6.googleusercontent.com/O0-ZaDIYH5ZVHVD7WAnKuwvWmHehVFIofr5yne3c3YAAOI7sjdERLti8JByTcehrjGrARk8YhmzZ3cMcvAhMAtxIk_LkW8sTmFBSghMoMZ-rUyKnJEB0N1zluQR_JPv3LWaFx8uDMp4rVz5WcS046bY)
 
+### 10.5 installing freecad
+
+ So after downloading the file ,
+
+You should see this 
+
+![](https://lh3.googleusercontent.com/PPIO2mCoYmXOHG9u7dLXdZZjh2Fqb0BMUl7gJ5_mX6aKy8jBnCrfViLLjdDPnRTqWg536UGwFihJhF2Q1kndSQ3KXA-XPZXA6HQTO5JLCZqbHSq6v45iysPoWSrnkuvLgpJrJ-uEIc2KuNXf2pj2rsN1dwALaX3ENUsWYd7lrej55H4SR_bqaM7ISOWbQw)
+
+The you press on next
+
+After you press on next you should see this ![](https://lh6.googleusercontent.com/mwrecyQ6Bm7lMTgXB_7MKinrrJ_WRUCdI92Y6eO5n4_VdHkQiRgDAnGaCpCni-Fko6SoUAzC6E-LZDPtRG47XBQ0z6Ar5_yziFUsbkD6c6w8hw8uIWmBNspK-d8gJu0KGfdpVtjQVUp_WZaOdDxDK9k65mR44d-E8aMyhHpxAtcdgtGrlbl1Vu9BbLk-4A)
+
+Then press on next
+
+And you should see this 
+
+![](https://lh3.googleusercontent.com/W1HkRJpuCceWUr3E2Fk33xBuWlC2ASUrZktcMwg6sv4uHnDVrMzuTbHPQAeP5o8W79za2_XGKMdXnWQmRZTstdkJImheElxTfFv4w1XCm5lxgqhsAraZkU9iBvKLnW2W38tXVoVotmrIpQOXRzUpKG9klPDcDXpm4Ca2dTO6Aigpq2wEd2mvcz40tHheZQ)
+
+You can choose wich one is for you
+
+And press on next and your good 
+
+ And this is the download link
+
+[freeCad downoad link](https://drive.google.com/file/d/1UYIprnmoOGLFf4dSsa_ORXcL45E78jNX/view)
+
+### 10.5.2 using freeCad
+
+![](https://lh5.googleusercontent.com/7Z_fRy9k3t-V1bKzT0O3kLgzuwzYp2EyodgVegbWMzW2ig05MsDxy6XFwY4ErJUY37pXP9WjY36sR8GaxdiRUmIXAyI6SC4gITrkm76c466IotMZ_nElSdiIDa4VUYUO3M1alBCuVTP9SZ9R4xoZS87oueTFTAAdfbvl8AqbZfVycJM0TTlrYFz46MJXKg)
+
+Press on creat new
+
+You should see this 
+
+![](https://lh4.googleusercontent.com/3wbf_1fi9F64czcOpiY7jQsnkUFZKZtf0dd86J_h_x30F4UVKzeETuV3vLV_oMkqhwQezxRZAwZqNRTRuUsC_81vXDnWwvjDRHbvQ1G-cUNn8htenYebXVgsypCmm-WunQ6tA_ZNp7pMYJ2_8ZKVlvTb0flwyXoZwR2gFt8wPUOkMnOvbQJA5OB625EFhg)
+
+And the press on start
+
+![](https://lh5.googleusercontent.com/mpMY0mO60spcbDbKRJYLGliYHtQd7qwEtA2fG-JJMV9cJB99sG0QYdR9XPeNDZ5UjU4Zpk-c6kxQ1CuADqK2vXenYVKWmP5Zp2RkhOcKU2d7AXvM-Miv7YC1LsANmhdCB2qr1R7XWz7E1Z4xwn0QOb_Ag631dKpxPYImQbxRpfZq6BtHPQDuJ8RUxibEYA)
+
+Then press in part design
+
+![](https://lh4.googleusercontent.com/J77myEHpdLbrOj1pRjiUzksH3MmVJEU-OPdnPxLsw5VIamWw0IXfop4GP-uazKPEdrGmMsre0sN-ekKiy-0-VfnY0BaY3K4GezLjxQHOZbrA4cVUvaUxjAfx5Fig7CQJ7PF2ed-zqPikAH7bWhzqq0LRQ7vDno40_CZVqWJLsnuOe6yXNbAmfTFKMPa0vA) and then press on create new sketch
+
+![](https://lh3.googleusercontent.com/5hFfyqTS7Cgmxst7753GMlmMfSzjJm0xv-9Os-avRH_8UpRtWN5g2FyqWJ9ewcSMKc5d27jpKCeelccUds4MBOU1R86fc8kA0BBNMrpkoeZsULG5n-H1_ani4Jl40yFgu1TNWS4r9x0hbv5TLq1BOD9ILydmkEB34uY-yIV3qV2stmO0oJqYIG2XScFYFg)
+
+Then press on XY plan
+
+You should see this ![](https://lh4.googleusercontent.com/ikHjU2vBiEFaRpJJh3Z7-Cr2WdTVfyIebF1ypnREhPT9m_Pb4E-1eXIO8Ko_NIxr1a7s2pkiqqW7vxJFcGd__jRasBziEslGNJWO7-clbsZQUnk2ejF_Y07b9TzSWgGYT6Q_1xOuvUIVUKu0z0M_XlhnbiUzB7fykb0l80sN0H4PYrcTPdiuSl7-_FS86Q)
+
+The press on the square
+
+![](https://lh6.googleusercontent.com/f00YyQmqvPhmq7C3iSzHI81DW_03KZOUyH7yOFqMu_KUPCUUp_f21FmYZwEzsELfD-yflI9MJoLva3CHYroJhhBUhk4n3fwjczMpqPx9MTmFAhblCpde_fJW3Tj7smoXLjxB1oNroVudMk0GjStFZOJdYFDDovHEMDFIvOCffnCodv1PD5VV1ZkEhWTL6A)
+
+Press the dot in the middel of the the screen
+
+And make a square 
+
+![](https://lh4.googleusercontent.com/geROBI9De757L7RlkJxC2qzcb9vP3c3wSJvCufrMWjpyzh9Oft07W_z6-8UpxtmqQNjYdgCnvEG3yV8JMhUujX2CH7uESjsvmD4XIb5MxVxLZYshGko5_miSvTkzQ06BYbaCiKgdiakaDRi_SRdOWQq6bIz6wJ9hkUrHTCA6h5viNYLP6Hsg8J3NoN5fRw)
+
+And then you have to press on constraint horizontal distance
+
+![](https://lh6.googleusercontent.com/q-uye5wPRo8uhXWEB8U0un7zQFT1MDUcw17JsyVmJLOBZg-1ARIjizaGOQhF0CKzlG3MJ7UOxI6-g2Y0u7Br37lynB2Qb6vF0gmVe64teaaCTa6w7AdzxGSfPxW7XNmr65CBy90WypAyJXf-0uDU-3hgAIdjLyqUUsEcRYzQp1jmIPmMDJ6yFKjPCFF4Ng)
+
+And the you have to press on the top of the squere 
+
+![](https://lh4.googleusercontent.com/pAb7S_4l8QtehD8JmeaK4SNmN94_l3P-7l0bnMNaZtXIv3Phg1SqJf0l4o-kdz4ghcPAi6Q7DgmiK8XfshtCGBDdwWH3rEEo6RwS-QUMfv0iWi1P0pI1bRRid46EqiCFGCXVuVcd273Sdlyb1lf1bCjb0NBJueEUIuTqktz9ck5Ow3zbmyNflA9BsWmY5Q)
+
+Set the distance to 50mm
+
+Then press on constrain vertical distance ![](https://lh6.googleusercontent.com/vnBi35_coNgcmQoyqOhkAQnzMxx1tPlU0yvldUd5gfP4aeMEykHwfKQt4Srk_jPSdeGsAubcJZm-qqExOaC6njX8MMpju3j7hDe-PEO_8_pVdrC-bZXmiVri4sBSZRdK9JxaEHhvvg9iCOWkai7Wr7KZuLQLHFUX9F1742ZskNzr0OwhrRqyJQcfctpXbQ)
+
+Then set the distace to 50mm 
+
+![](https://lh4.googleusercontent.com/2rhHdmxSltGueEsB4yjoTiBoNyOf2HZ4fED9txuvT3srwxqVvUOp7TRgovksgK5nVk53knMosDQKsfuJl67MGUfhGY_24jBsqDHwr52P5bxVMTcguDFDSvYtIL2Koc_fOvvEE83qjrOzoqGy8Mzu-c5PIeTR4V5yGTDryHpoinaIPKrK6_7ZqQi729q3BA)
+
+Then press on close 
+
+![](https://lh4.googleusercontent.com/Klu-f0mGaOjoe1Z1KG0JDlHooGsBTxY6Vg40h4vULZBzsc0XCwy0ebtanyVYD0z536rI7dVPcME8ydQgCkvB6GG0bynDiANKGjdqMU4SNpmwJ5shA70sn_PIWXEnFdPrANe0GIz4s2RtyNqH7uypUIrQ_QLglS7Q7n1v6SRp2cqc0sOgUi_vGu8RpLYb4w)
+
+Then press on close 
+
+![](https://lh4.googleusercontent.com/uz1anel46Ta6hiISMHcaW1y3h2ITQ04q5OqTSK5WRa_wZFVnoyyhRnCtu-_bfoX71BqCnTUmX3PlGtfvDfcsMcGP96g0rg4H5nhnOgprgap0d8X61ZyueWXzBeNRdK76SIs5dg_7nunwAmSsmgCyFTpCrnBPt0Pg3uafT3HiAN3SfPi5uKnxJT88emiQ5Q)
+
+The press on pad 
+
+![](https://lh5.googleusercontent.com/q9bHy1v6lppcpfxfAOXRnfeKBtAmrPADut79zsuEb9dizAE9F3tFlo7w8jn1f-QZbnl-PTCA1Q4m2ctViTDOwfZWqeeuJumaYtMaWlpbJPnZplBmj9pCeRLyhZYrY-N92-OzCu5uq4k_IQIhntkkyfetoyM5Zxdnm3wydhIwDalziFQcDsF8tTF1Fhs-0w)
+
+Then press on creat new sketch 
+
+![](https://lh4.googleusercontent.com/MkpPRUB_W9h82yzJDvahVTSdBp0zuqQw4nJyO5isJhn-Nm9rttgeO80VPiUtteJYWA0UuU_pnHivLRop8EKPwZg_4nXDa08gGOgGYoYJEP6ugWuLYK-LHPKvjPBSk3Nr6YHrQn_hcYNUIytnjLbHtjOL6O-HcsWSTUq7FwaJ9RHJ15RIF-6cKoKqGi4zxQ)
+
+Then press on XY plane 
+
+![](https://lh6.googleusercontent.com/BflCvNUwHWVJ-QGWU-_Xzx6MTp_t50mkeMxLNWpThIwkpIn0ZB4Zn7Z6Pri8lQ0XlkE0NrLKoomkdkRA0pjx7Mu8jDdEardwTbyiNrLNDMcZFJreKMfmDfbuHnCMmRI-kwXF30GxD6nuFNadYiQQtTqQzRxsGS6sM42XF5oHA31CSF5rg7qF_zuV1QGZtA)
+
+Then press on creat circle 
+
+And make a circle 
+
+It will look invisible but its there
+
+![](https://lh6.googleusercontent.com/bSL6qOGNcZFlKmnmKwq8iKfKVGGVlOFX3a6Yt6BTGs2ZG80vFm13Ee5uF-gCW44ti8u-A1DZE3BojJKa0o43pqSWzU5ExUJuz29Wm4ja540sZIq02qjW25UGzJUpiHZlcMXSozizKffLGqyr2vaREefrlNUQ8bCum1iJVT5c61zNOjA86zLt5CmXPlcv0Q)
+
+The press close 
+
+![](https://lh3.googleusercontent.com/Ea6RFMWABfdPE-OXkR17DYR2rJqVHIf3QvAymFa5Ps4RSVvx0G9NVlkmJkG20YNmcpT8TUzvbTuQjY8cPA3dejWNxCuSngTQPxNH3bBZaGcDkwOnWNaQRyRTQSUBQO_HtR2kZxRdoONTYJIItGrqpXJCcw-HpwPOoAHj43WbalKXjxd6_Ykogu2f96QBEg)
+
+Press on the arrows in the right corner
+
+Until it shows the circle 
+
+![](https://lh4.googleusercontent.com/6bMnmU76iqer9_NIHoZLUxwLT57JhxoIgLnMECZwvwYHimYqi2_vuYuCZ59WfAYX4ZuYrS7cnxHGZBZx3DLFXw67QC0KvLJ0HTP7-wd0Gs9_iKK-LxOANhFK0Toe3Jl1QbUiUeDrF0LlhUvUu8Y2GEIv_E_I3uPMJnGgiU5FNvwkEem9xIIm21Y-iAcsXw)
+
+Press on the pocket tool
+
+![](https://lh6.googleusercontent.com/1JhBsDqP7DLnWAsK2VCh4n4njrjfJXZYQE6KYUuvBF9NtGFcPBfhJI_48ls4I0aXxo76y33UgDVQ_M391Ewla-ffPk2lxc0Lpn0hvTjFMHPsOajoSo6UXsWGk9OTuB3YUkOInpxPZb9yuEY6aNADVZS6O5fA-AmaIlG1YBnriCnmG910hygIcmYKwqoswA)
+
+And press on the circle and then press ok
+
+![](https://lh4.googleusercontent.com/vl-Pm2EDdm3EdxpkYWDSU1Pt99rP9Nx5GwUxsM0FmhJzJwK-17-xloc3QqzX-do7Ai5pFinsL3YL6D3IxC7hk4tL8vkm8SeQZqbU-woBMakVViCQTRD2I2l0AXzje86oo6hg89D_v8fUXGyWr4EPviTEkTXHclGJwezfOGPtEKYmEdaxHgKMPeMm7hGZWg)
+
+And you should have a pocket
+
+###  10.6 cnc
+
+So we leard about cnc and cnc is and what is cnc
+
+CNC stands for Computer Numerical Control; this is simply a method for automating the control of machine tools. Computer numerical control machines rely on computer instructions and a CAM (computer-aided manufacturing) program to control, automate and monitor machine tools' movement to create the desired part
+
+### Esp32 cam set up/settings
+
+### How to connect esp32 cam to ftdi 
+
+![](https://lh5.googleusercontent.com/Pp9lFjPtc4fp9ndTKenUi_-SLWllGHvUGxiPtX3He9ZSTlRxhYkW9Gyz2o3swFr5h0KmVHlkRKOFdHFdR_u7xWx81rL0PPSwHlX-TxWmjZmlOV6JAZOODbPKP9yYsZ2V3N4kCLytKUBPgal2S5Kh9I8aT99-v2MyHp7oGlNwO32eA4F4PeOcLCXRVmyP5g)
+
+Setting for Arduino ide
+
+Arduino board software = ai thinker
+
+Additional notes = ground and power must be on the same side on the esp 32 cam
 
